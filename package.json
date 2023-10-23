@@ -1,0 +1,13 @@
+{
+  "name": "d1-kv-adapter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "pub": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.14.0"
+  }
+}

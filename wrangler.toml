@@ -1,0 +1,10 @@
+name = "d1-kv-adapter"
+compatibility_date = "2023-10-07"
+main = "index.js"
+workers_dev = true
+
+
+[[d1_databases]]
+binding = "DB"
+database_name = "database"
+database_id = ""
